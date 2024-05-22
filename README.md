@@ -1,8 +1,8 @@
- 👋 Hi, I’m @bryscott1
- 👀 I’m interested in android app development and Git
+ 👋 Hi, I’m BRAYAN NGOWI
+ 👀 I’m interested in android app development,web development, DevOps and Git
  🌱 I’m currently learning python,java,javascript,php,Django,Spring framework, Git&Github and DevOps.
- 💞️ I’m looking to collaborate on web development
- 📫 
+ 💞️ I’m looking to collaborate on more projects with different frameworks 
+ 📫 follow me on my social account as seen in my profile page.
  
 
 <!---
